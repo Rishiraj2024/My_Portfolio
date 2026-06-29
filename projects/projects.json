@@ -31,15 +31,6 @@
       "view": "object-detection-six-sigma.vercel.app",
       "code": "https://github.com/Rishiraj2024/Object-detection"
     }
-  },
-  {
-  "name": " Meme Generator",
-  "desc": "A  meme generator Platform built using the MERN stack. Features  customizable text, image upload, real-time preview, meme templates, secure backend APIs, responsive UI with Tailwind CSS, and seamless meme creation and sharing.",
-  "image": "generator",
-  "category": "mern",
-  "links": {
-    "view": "",
-    "code": "https://github.com/Rishiraj2024/Meme-Generator"
   }
-}
+  
 ]
