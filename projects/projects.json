@@ -1,0 +1,45 @@
+[
+   
+  {
+    "name": "Smart Video Search (AI Powered)",
+    "desc": "A modern video streaming application inspired by YouTube and Hotstar with AI-powered recommendations, intelligent search, API-based movie browsing, reusable React components, and optimized performance.",
+    "image": "video",
+    "category": "mern",
+    "links": {
+      "view": "smart-video-search.vercel.app",
+      "code": "https://github.com/Rishiraj2024/Smart-Video-Search"
+    }
+  },
+  {
+    "name": "E-Commerce Web Application ",
+    "desc": "A scalable full-stack e-commerce platform built using the MERN stack. Features secure JWT authentication, dynamic shopping cart, Redux state management, REST APIs, responsive UI with Tailwind CSS, product management.",
+    "image": "game",
+    "category": "mern",
+    "links": {
+      "view": "https://your-live-demo.com",
+      "code": "https://github.com/Rishiraj2024/E-Commerce-app"
+    }
+  },
+  
+
+  {
+    "name": "AI-Based Object Detection System",
+    "desc": "An AI-powered computer vision application capable of detecting and analyzing objects in images and video streams using deep learning models. Includes preprocessing, real-time detection, and practical applications in automation and surveillance.",
+    "image": "object",
+    "category": "ai",
+    "links": {
+      "view": "object-detection-six-sigma.vercel.app",
+      "code": "https://github.com/Rishiraj2024/Object-detection"
+    }
+  },
+  {
+  "name": " Meme Generator",
+  "desc": "A  meme generator Platform built using the MERN stack. Features  customizable text, image upload, real-time preview, meme templates, secure backend APIs, responsive UI with Tailwind CSS, and seamless meme creation and sharing.",
+  "image": "generator",
+  "category": "mern",
+  "links": {
+    "view": "",
+    "code": "https://github.com/Rishiraj2024/Meme-Generator"
+  }
+}
+]
